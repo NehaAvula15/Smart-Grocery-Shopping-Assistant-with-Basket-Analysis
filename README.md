@@ -10,10 +10,15 @@
 ### Contents:
                
 ├── DATASETS                                    : Contains collection of datapoints in table format("https://www.kaggle.com/search?q=market+basket+analysis")
+
 ├── marketbasket.ipynb                          : Initial analysis to understand data, analyze customer purchase pattern and predict recommendatio
+
 ├── BasketAnalysis.py                           : Application for smart grocery shopping assistant with basket analysis project 1
+
 ├── BasketAnalysis1.py                          : Application for smart grocery shopping assistant with basket analysis project 2
+
 ├── LICENSE                                     : License
+
 └── README.md                                   : Project Report 
 
 ### Installation:
